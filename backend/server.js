@@ -10,4 +10,4 @@ app.listen(3000,()=>{
 
 connectToDb()
 
-testAi()
+// testAi()

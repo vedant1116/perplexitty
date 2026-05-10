@@ -7,5 +7,4 @@ function connectToDb(){
         console.error('Error connecting to MongoDB:', err);
     });
 }
-
 export default connectToDb;
